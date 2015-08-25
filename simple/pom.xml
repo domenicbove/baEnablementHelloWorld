@@ -70,7 +70,7 @@
 		<repository>
 			<id>deployment</id>
 			<name>Internal Releases</name>
-			<url>http://nexus-rhcbap.rhcloud.com/nexus/content/repositories/snapshots</url>
+			<url>http://nexus-rhcbap.rhcloud.com/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
