@@ -47,13 +47,15 @@
 			<version>1.0.7</version>
 		</dependency>
 
-		<!-- add dependency to simple-knowledge
 		<dependency>
 			<groupId>com.redhat</groupId>
 			<artifactId>dbove-simple-knowledge</artifactId>
 			<version>1.0-SNAPSHOT</version>
-			<type>pom</type>
-		</dependency>  -->
+		</dependency>
+
+		<!-- add dependency to simple-knowledge <dependency> <groupId>com.redhat</groupId> 
+			<artifactId>dbove-simple-knowledge</artifactId> <version>1.0-SNAPSHOT</version> 
+			<type>pom</type> </dependency> -->
 
 	</dependencies>
 
